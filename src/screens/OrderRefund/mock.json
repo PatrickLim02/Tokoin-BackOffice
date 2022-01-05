@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "sales_number": "01/PRCHS/XI/2021",
+        "date": "11-25-2021",
+        "customer": "Mary Jane",
+        "total": 130000,
+        "status": "Refund Pending"
+    },
+    {
+        "id": 2,
+        "sales_number": "01/PRCHS/XI/2021",
+        "date": "11-25-2021",
+        "customer": "Mary Jane",
+        "total": 130000,
+        "status": "Refund Done"
+    }
+]

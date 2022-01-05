@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "purchase_number": "01/PRCHS/XI/2021",
+    "date": "11-25-2021",
+    "supplier": "TOKO A",
+    "total": 25000
+  },
+  {
+    "id": 2,
+    "purchase_number": "02/PRCHS/XI/2021",
+    "date": "11-25-2021",
+    "supplier": "TOKO A",
+    "total": 25000
+  },
+  {
+    "id": 3,
+    "purchase_number": "03/PRCHS/XI/2021",
+    "date": "11-25-2021",
+    "supplier": "TOKO A",
+    "total": 25000
+  },
+  {
+    "id": 4,
+    "purchase_number": "04/PRCHS/XI/2021",
+    "date": "11-25-2021",
+    "supplier": "TOKO A",
+    "total": 25000
+  },
+  {
+    "id": 5,
+    "purchase_number": "05/PRCHS/XI/2021",
+    "date": "11-25-2021",
+    "supplier": "TOKO A",
+    "total": 25000
+  },
+  {
+    "id": 62,
+    "purchase_number": "06/PRCHS/XI/2021",
+    "date": "11-25-2021",
+    "supplier": "TOKO A",
+    "total": 25000
+  },
+  {
+    "id": 27,
+    "purchase_number": "07/PRCHS/XI/2021",
+    "date": "11-25-2021",
+    "supplier": "TOKO A",
+    "total": 25000
+  },
+  {
+    "id": 48,
+    "purchase_number": "08/PRCHS/XI/2021",
+    "date": "11-25-2021",
+    "supplier": "TOKO A",
+    "total": 25000
+  },
+  {
+    "id": 93,
+    "purchase_number": "09/PRCHS/XI/2021",
+    "date": "11-25-2021",
+    "supplier": "TOKO A",
+    "total": 25000
+  }
+]

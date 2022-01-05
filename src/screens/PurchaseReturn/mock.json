@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "purchase_number": "01/Return/XI/2021",
+    "date": "11-25-2021",
+    "total": 25000,
+    "status": "RETURN ON PROCCESS"
+  },
+  {
+    "id": 2,
+    "purchase_number": "02/Return/XI/2021",
+    "date": "11-25-2021",
+    "total": 25000,
+    "status": "RETURN ON PROCCESS"
+  },
+  {
+    "id": 3,
+    "purchase_number": "03/Return/XI/2021",
+    "date": "11-25-2021",
+    "total": 25000,
+    "status": "RETURN ON PROCCESS"
+  },
+  {
+    "id": 4,
+    "purchase_number": "04/Return/XI/2021",
+    "date": "11-25-2021",
+    "total": 25000,
+    "status": "RETURN ON PROCCESS"
+  },
+  {
+    "id": 5,
+    "purchase_number": "05/Return/XI/2021",
+    "date": "11-25-2021",
+    "total": 25000,
+    "status": "RETURN ON PROCCESS"
+  },
+  {
+    "id": 6,
+    "purchase_number": "06/Return/XI/2021",
+    "date": "11-25-2021",
+    "total": 25000,
+    "status": "RETURN ON PROCCESS"
+  },
+  {
+    "id": 7,
+    "purchase_number": "07/Return/XI/2021",
+    "date": "11-25-2021",
+    "total": 25000,
+    "status": "RETURN ON PROCCESS"
+  },
+  {
+    "id": 8,
+    "purchase_number": "08/Return/XI/2021",
+    "date": "11-25-2021",
+    "total": 25000,
+    "status": "RETURN ON PROCCESS"
+  },
+  {
+    "id": 9,
+    "purchase_number": "09/Return/XI/2021",
+    "date": "11-25-2021",
+    "total": 25000,
+    "status": "RETURN ON PROCCESS"
+  }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "product_number": "PRD0001",
+        "product_name": "Black Gift Box"
+    },
+    {
+        "id": 2,
+        "product_number": "PRD0002",
+        "product_name": "Red Gift Box"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "variant": "Black",
+        "stock": "2",
+        "price": 125000
+    },
+    {
+        "id": 2,
+        "variant": "Red",
+        "stock": "15",
+        "price": 175000
+    }
+]

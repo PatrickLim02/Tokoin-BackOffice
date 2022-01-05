@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "product_number": "01/PRCHS/XI/2021",
+        "product": "Fruit Basket",
+        "variant": "Yellow",
+        "status": "Delivering",
+        "qty": "1",
+        "price": 130000,
+        "subtotal": 130000
+    },
+    {
+        "id": 2,
+        "product_number": "02/PRCHS/XI/2021",
+        "product": "Fruit Basket",
+        "variant": "Red",
+        "status": "Delivering",
+        "qty": "2",
+        "price": 130000,
+        "subtotal": 260000
+    }
+]

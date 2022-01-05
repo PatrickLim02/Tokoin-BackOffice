@@ -1,0 +1,20 @@
+[
+    {
+        "id" : 1,
+        "prod_no" : "PRD001",
+        "product" : "Satin Gift Box",
+        "variant" : "Maroon",
+        "current_stock" : "100",
+        "warehouse_stock" : "98",
+        "note" : "Product Defected"
+    },
+    {
+        "id" : 2,
+        "prod_no" : "PRD002",
+        "product" : "Satin Gift Box",
+        "variant" : "Navy",
+        "current_stock" : "88",
+        "warehouse_stock" : "90",
+        "note" : "Bonus product from supplier"
+    }
+]

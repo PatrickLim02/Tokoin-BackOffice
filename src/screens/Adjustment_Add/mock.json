@@ -1,0 +1,20 @@
+[
+    {
+        "id" : 1,
+        "prod_no" : "001/ADJST/XI/2021",
+        "product" : "11-25-2021",
+        "variant" : "Red",
+        "current_stock" : "12",
+        "warehouse_stock" : "15",
+        "note" : "Product tercecer"
+    },
+    {
+        "id" : 2,
+        "prod_no" : "002/ADJST/XI/2021",
+        "product" : "11-26-2021",
+        "variant" : "Black",
+        "current_stock" : "11",
+        "warehouse_stock" : "12",
+        "note" : "Product Hilang"
+    }
+]

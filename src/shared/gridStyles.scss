@@ -1,0 +1,16 @@
+@import "./masterColor.scss";
+.table-container {
+  background-color: $white;
+  padding: 1%;
+  svg {
+    cursor: pointer;
+  }
+}
+
+.font-size-grid {
+  text-transform: capitalize;
+}
+
+.column-width{
+  max-width: 20em;
+}
